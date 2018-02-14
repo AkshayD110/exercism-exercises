@@ -5,7 +5,9 @@ class BowlingGame(object):
         pass
 
     def roll(self, pins):
-        print(pins)
+        frames=10
+        if (pins==10):
+            frames-=1
 
     def score(self):
         pass
