@@ -5,11 +5,12 @@ class BowlingGame(object):
         pass
 
     def roll(self, pins):
-        print(type(pins))
+        if(pins>=1):
+            print("Array")
+        else:
+            print("int")
 
     def score(self):
         pass
 
-b=BowlingGame()
-try_rolls=[2,3,4,5,6,7,8,9,9,1]
-b.roll(try_rolls)
+#check
