@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/PycharmProjects/DataAnalytics_Graphing/.idea/DataAnalytics_Graphing.iml" filepath="$USER_HOME$/PycharmProjects/DataAnalytics_Graphing/.idea/DataAnalytics_Graphing.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/LogAnalyzer/.idea/LogAnalyzer.iml" filepath="$USER_HOME$/PycharmProjects/LogAnalyzer/.idea/LogAnalyzer.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python.iml" filepath="$PROJECT_DIR$/.idea/python.iml" />
     </modules>
