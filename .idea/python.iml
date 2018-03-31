@@ -7,6 +7,9 @@
     <orderEntry type="module" module-name="PycharmProjects" />
     <orderEntry type="module" module-name="DataAnalytics_Graphing" />
     <orderEntry type="module" module-name="LogAnalyzer" />
+    <orderEntry type="module" module-name="Most-Used-words-in-a-book" />
+    <orderEntry type="module" module-name="PodcatTimer" />
+    <orderEntry type="module" module-name="scriptsForNQCMD" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

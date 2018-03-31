@@ -4,6 +4,9 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/DataAnalytics_Graphing" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/LogAnalyzer" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/Most-Used-words-in-a-book" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/PodcatTimer" vcs="Git" />
     <mapping directory="$USER_HOME$/PycharmProjects/dataAnalytics/counterScripts" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/scriptsForNQCMD" vcs="Git" />
   </component>
 </project>
